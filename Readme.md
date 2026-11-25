@@ -2,8 +2,8 @@
 # Seguridad Informática
 
 ## Datos del estudiante
-- Nombre y apellido: 
-- Curso: 
+- Nombre y apellido: Selene Zalazar
+- Curso: 6to "a"
 - Materia: Desarrollo de Soluciones Informáticas
 
 ---
